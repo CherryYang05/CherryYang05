@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is Cherry! 👋
 
 <!--
 **CherryYang05/CherryYang05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-- Github 统计卡片 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherryYang05&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 更多置顶仓库 -->
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CherryYang&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
