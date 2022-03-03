@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![cnblog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-Blog-brightgreen)](https://www.cnblogs.com/CherryYang/)
 
 <!-- Github 统计卡片 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherryYang05&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherryYang05&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 更多置顶仓库 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CherryYang&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
