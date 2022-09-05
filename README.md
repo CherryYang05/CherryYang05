@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-考研中🤔
+中国科学院计算技术研究所
 
 [![Github Blog](https://img.shields.io/badge/Github-Blog-blue)](https://cherryyang05.github.io)
 [![CSDN](https://img.shields.io/badge/CSDN-Blog-red)](https://blog.csdn.net/qq_42650988)
