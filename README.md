@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-中国科学院计算技术研究所
+Institute of Computing Technology Chinese Academy of Sciences
 
 [![Github Blog](https://img.shields.io/badge/Github-Blog-blue)](https://cherryyang05.github.io)
 [![CSDN](https://img.shields.io/badge/CSDN-Blog-red)](https://blog.csdn.net/qq_42650988)
-[![cnblog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-Blog-brightgreen)](https://www.cnblogs.com/CherryYang/)
+<!--[![cnblog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2%E5%9B%AD-Blog-brightgreen)](https://www.cnblogs.com/CherryYang/)-->
 
 <!-- Github 统计卡片 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherryYang05&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
