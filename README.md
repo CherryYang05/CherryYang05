@@ -24,5 +24,7 @@ Institute of Computing Technology Chinese Academy of Sciences
 <!-- Github 统计卡片 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CherryYang05&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CherryYang05)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- 更多置顶仓库 -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CherryYang&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) -->
