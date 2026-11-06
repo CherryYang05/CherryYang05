@@ -12,14 +12,8 @@
 ![Docker](https://img.shields.io/badge/Docker-555?style=flat&logo=docker&logoColor=white)
 
 <p>
-<a href="https://github.com/CherryYang05?tab=overview"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CherryYang05&amp;theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CherryYang05&amp;theme=github" alt="GitHub 统计：Commit、PR、Issue、Stars 与参与的仓库" width="400">
-</picture></a>
-<a href="https://github.com/CherryYang05?tab=repositories"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CherryYang05&amp;theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CherryYang05&amp;theme=github" alt="按提交次数统计的常用语言" width="400">
-</picture></a>
+<a href="https://github.com/CherryYang05?tab=overview"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CherryYang05&amp;theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CherryYang05&amp;theme=github" alt="GitHub 统计：Commit、PR、Issue、Stars 与参与的仓库" width="400"></picture></a>
+<a href="https://github.com/CherryYang05?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CherryYang05&amp;theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CherryYang05&amp;theme=github" alt="按提交次数统计的常用语言" width="400"></picture></a>
 </p>
 
 ### [Bearguin](https://bearguin.cn/) · 最近的文字
