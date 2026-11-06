@@ -4,16 +4,16 @@
 
 [BearAgent](https://github.com/CherryYang05/BearAgent) · [myskills](https://github.com/CherryYang05/myskills) · [OpenMIPS_CPU](https://github.com/CherryYang05/OpenMIPS_CPU)
 
-![C++](https://img.shields.io/badge/C%2B%2B-555?style=flat&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-555?style=flat&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-555?style=flat&logo=rust&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-555?style=flat&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-555?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-555?style=flat&logo=docker&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <p>
-<a href="https://github.com/CherryYang05?tab=overview"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CherryYang05&amp;theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CherryYang05&amp;theme=github" alt="GitHub 统计：Commit、PR、Issue、Stars 与参与的仓库" width="400"></picture></a>
-<a href="https://github.com/CherryYang05?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CherryYang05&amp;theme=github_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CherryYang05&amp;theme=github" alt="按提交次数统计的常用语言" width="400"></picture></a>
+<a href="https://github.com/CherryYang05?tab=overview"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CherryYang05&amp;theme=nord_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CherryYang05&amp;theme=nord_bright" alt="GitHub 统计：Commit、PR、Issue、Stars 与参与的仓库" width="400"></picture></a>
+<a href="https://github.com/CherryYang05?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CherryYang05&amp;theme=nord_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CherryYang05&amp;theme=nord_bright" alt="按提交次数统计的常用语言" width="400"></picture></a>
 </p>
 
 ### [Bearguin](https://bearguin.cn/) · 最近的文字
