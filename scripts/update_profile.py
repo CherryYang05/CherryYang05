@@ -34,23 +34,23 @@ def render(data):
     months=sorted(months.items())[-12:]
     # Metrics have explicit scopes; calendar totals are not labelled as commits.
     for mobile in [False,True]:
-        w,h=(480,324) if mobile else (960,268)
+        w,h=(360,314) if mobile else (960,268)
         body=text('A year in code',24 if mobile else 32,40,25,weight=600)
         body+=text(f'Updated {stamp}',24 if mobile else 766,65 if mobile else 38,12,'#ACBBDC')
         metrics=[(cal['totalContributions'],'contributions'),(c['totalCommitContributions'],'commits'),(c['totalPullRequestContributions'],'pull requests')]
         for i,(value,label) in enumerate(metrics):
-            x=(25+i*155) if mobile else (32+i*157)
-            body+=text(value,x,112 if mobile else 94,31,weight=600)+text(label,x,137 if mobile else 118,13,'#BAC6E4')
-        startx,starty=(28,172) if mobile else (530,64)
-        chartw,charth=(424,102) if mobile else (395,128)
+            x=(16+i*115) if mobile else (32+i*157)
+            body+=text(value,x,112 if mobile else 94,31,weight=600)+text(label,x,137 if mobile else 118,14,'#BAC6E4')
+        startx,starty=(24,172) if mobile else (530,64)
+        chartw,charth=(312,94) if mobile else (395,128)
         maxval=max([v for _,v in months]+[1]);step=chartw/max(len(months),1)
         body+=f'<path d="M{startx} {starty+charth}H{startx+chartw}" stroke="#405176"/>'
         for i,(month,value) in enumerate(months):
             bh=max(2,value/maxval*charth);x=startx+i*step+2;y=starty+charth-bh
             body+=f'<rect x="{x:.1f}" y="{y:.1f}" width="{max(2,step-9):.1f}" height="{bh:.1f}" rx="3" fill="'+('#F4B8CF' if i==len(months)-1 else '#879BFF')+'"><title>'+escape(month)+f': {value} contributions</title></rect>'
-            if i%2==0:body+=text(month[5:],round(x),starty+charth+19,11,'#BAC6E4')
+            if i%2==0:body+=text(month[5:],round(x),starty+charth+19,13,'#BAC6E4')
         if mobile:
-            body+=text('Monthly contributions · last 12 months',26,310,12,'#ACBBDC')
+            body+=text('Monthly contributions · last 12 months',24,301,13,'#ACBBDC')
         else:
             stars=sum(r['stargazerCount'] for r in repos if not r['isFork'])
             body+=text(f'{len(repos)} public repos  /  {stars} stars on non-fork repos',33,169,14,'#BAC6E4')
@@ -73,8 +73,8 @@ def render(data):
         body+=f'<rect x="{x:.1f}" y="56" width="{width:.1f}" height="11" fill="{colors[name]}"/>';x+=width
     for i,(name,value) in enumerate(ranked):
         y=97+i*23
-        body+=f'<circle cx="31" cy="{y-5}" r="4" fill="{colors[name]}"/>'+text(name,43,y,14)+text(f'{value/total:.1%}',365,y,13,'#BAC6E4')
-    body+=text('Top 5 sampled languages · public non-fork repos',25,222,11,'#ACBBDC')
+        body+=f'<circle cx="31" cy="{y-5}" r="4" fill="{colors[name]}"/>'+text(name,43,y,17)+text(f'{value/total:.1%}',365,y,16,'#BAC6E4')
+    body+=text('Sampled bytes · public non-fork repos',25,222,14,'#ACBBDC')
     save('languages.svg',450,240,body,'Code languages by sampled bytes in public non-fork repositories, not proficiency.')
     (ROOT/'assets/generated/snapshot.json').write_text(json.dumps({'updated':stamp,'scope':'Public GitHub repositories; non-fork language sample; GitHub contribution calendar','contributions_last_year':cal['totalContributions'],'commits_last_year':c['totalCommitContributions'],'pull_requests_last_year':c['totalPullRequestContributions'],'monthly':dict(months),'language_bytes':dict(ranked)},indent=2)+'\n')
     print('Rendered activity and language widgets from public GitHub data.')
