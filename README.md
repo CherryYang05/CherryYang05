@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CherryYang05/CherryYang05/master/assets/header-dark.svg">
-  <img src="https://raw.githubusercontent.com/CherryYang05/CherryYang05/master/assets/header-light.svg" alt="Cherry · Systems / Agents / Open Source" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Cherry · Systems / Agents / Open Source" width="100%">
 </picture>
 
 # Hi there, this is Cherry! 👋
@@ -12,9 +12,9 @@ Institute of Computing Technology, Chinese Academy of Sciences
 我关注**计算机系统、AI 基础设施与 Agent 工程**，喜欢从原理出发，通过代码和实验理解系统的行为，也把学习过程整理成可以回看的笔记与工具。
 
 <p>
-  <a href="https://bearguin.cn/"><img src="https://raw.githubusercontent.com/CherryYang05/CherryYang05/master/assets/blog.svg" alt="个人博客：bearguin.cn" height="32"></a>
-  <a href="https://cherryyang05.github.io/hexo-blog/"><img src="https://raw.githubusercontent.com/CherryYang05/CherryYang05/master/assets/hexo.svg" alt="Hexo 旧博客归档" height="32"></a>
-  <a href="https://blog.csdn.net/qq_42650988"><img src="https://raw.githubusercontent.com/CherryYang05/CherryYang05/master/assets/csdn.svg" alt="CSDN 技术笔记" height="32"></a>
+  <a href="https://bearguin.cn/"><img src="assets/blog.svg" alt="个人博客：bearguin.cn" height="32"></a>
+  <a href="https://cherryyang05.github.io/hexo-blog/"><img src="assets/hexo.svg" alt="Hexo 旧博客归档" height="32"></a>
+  <a href="https://blog.csdn.net/qq_42650988"><img src="assets/csdn.svg" alt="CSDN 技术笔记" height="32"></a>
 </p>
 
 ## 关注的方向
