@@ -21,13 +21,13 @@
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/CherryYang05/CherryYang05@475949e6123d1a72be597a4083227828eb105f11/assets/showcase/toolbox.svg" alt="常用语言与工具：Python、Rust、C++、Linux、Git、Docker" width="400">
-  <a href="https://github.com/CherryYang05?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/CherryYang05/CherryYang05@475949e6123d1a72be597a4083227828eb105f11/assets/generated/languages.svg" alt="公开非 fork 仓库的采样语言字节分布；不代表熟练度" width="400"></a>
+  <a href="https://github.com/CherryYang05?tab=repositories"><img src="https://cdn.jsdelivr.net/gh/CherryYang05/CherryYang05@ba1d93ba7676aff38dd6c1deba76e65ff79a9525/assets/generated/languages.svg" alt="公开非 fork 仓库的采样语言字节分布；不代表熟练度" width="400"></a>
 </p>
 
 <a href="https://github.com/CherryYang05?tab=overview">
   <picture>
-    <source media="(max-width: 600px)" srcset="https://cdn.jsdelivr.net/gh/CherryYang05/CherryYang05@475949e6123d1a72be597a4083227828eb105f11/assets/generated/activity-mobile.svg">
-    <img src="https://cdn.jsdelivr.net/gh/CherryYang05/CherryYang05@475949e6123d1a72be597a4083227828eb105f11/assets/generated/activity.svg" alt="GitHub 年度贡献、提交与 PR 数量，以及最近 12 个月的贡献分布；图内标注更新时间" width="100%">
+    <source media="(max-width: 600px)" srcset="https://cdn.jsdelivr.net/gh/CherryYang05/CherryYang05@ba1d93ba7676aff38dd6c1deba76e65ff79a9525/assets/generated/activity-mobile.svg">
+    <img src="https://cdn.jsdelivr.net/gh/CherryYang05/CherryYang05@ba1d93ba7676aff38dd6c1deba76e65ff79a9525/assets/generated/activity.svg" alt="GitHub 年度贡献、提交与 PR 数量，以及最近 12 个月的贡献分布；图内标注更新时间" width="100%">
   </picture>
 </a>
 
