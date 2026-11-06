@@ -22,7 +22,7 @@
 
 ### [Bearguin](https://bearguin.cn/) · 最近的文字
 
-北极熊不吃企鹅宝宝，记录系统原理、Agent 与工程实践。
+记录系统原理、Agent 与工程实践。
 
 - <sub>2026-10-23</sub> &nbsp; [上下文压缩](https://bearguin.cn/archives/shang-xia-wen-ya-suo)
 - <sub>2026-10-23</sub> &nbsp; [KV Cache 与上下文设计：为什么 Agent 要保持前缀稳定？](https://bearguin.cn/archives/kv-cache%E4%B8%8A%E4%B8%8B%E6%96%87%E8%AE%BE%E8%AE%A1)
