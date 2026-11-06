@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+  <title id="title">Cherry — Systems, Agents, Open Source</title>
+  <desc id="desc">Cherry's profile banner, with a cherry illustration connected to a small system diagram.</desc>
+  <defs><pattern id="dots" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#3b3544"/></pattern></defs>
+  <rect width="960" height="260" rx="20" fill="#1d2029"/>
+  <rect x="530" y="20" width="410" height="220" fill="url(#dots)"/>
+  <path d="M40 35H920" stroke="#3b3544"/>
+  <circle cx="44" cy="35" r="4" fill="#f08eaa"/>
+  <text x="42" y="76" fill="#bba9b6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="2">CHERRYYANG05 / NOTES &amp; CODE</text>
+  <text x="38" y="169" fill="#f7e9ee" font-family="Georgia, 'Times New Roman', serif" font-size="94" font-weight="bold" letter-spacing="-4">Cherry<tspan fill="#f08eaa">.</tspan></text>
+  <text x="44" y="213" fill="#bba9b6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="1.5">SYSTEMS / AGENTS / OPEN SOURCE</text>
+  <g fill="none" stroke="#3b3544" stroke-width="2">
+    <path d="M610 126H674V81H724M674 126V187H763M844 81H890V187H863"/>
+  </g>
+  <g fill="#252833" stroke="#3b3544">
+    <rect x="724" y="52" width="144" height="58" rx="10"/>
+    <rect x="751" y="158" width="144" height="58" rx="10"/>
+  </g>
+  <g fill="#bba9b6" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">
+    <text x="743" y="87">&gt; understand</text><text x="770" y="193">&gt; build</text>
+  </g>
+  <circle cx="604" cy="139" r="44" fill="#412c3b"/>
+  <g fill="none" stroke="#9cc7b0" stroke-width="4" stroke-linecap="round">
+    <path d="M588 139Q586 109 609 93M617 145Q620 114 609 93"/>
+    <path d="M609 94Q633 82 641 102Q621 106 609 94Z" fill="#9cc7b0" stroke="none"/>
+  </g>
+  <circle cx="585" cy="150" r="18" fill="#f08eaa"/>
+  <circle cx="620" cy="157" r="19" fill="#f08eaa"/>
+  <path d="M577 143Q580 139 584 140M611 150Q614 146 618 147" stroke="#1d2029" stroke-width="3" stroke-linecap="round" fill="none"/>
+  <circle cx="674" cy="126" r="4" fill="#f08eaa"/>
+  <circle cx="890" cy="132" r="4" fill="#9cc7b0"/>
+</svg>
