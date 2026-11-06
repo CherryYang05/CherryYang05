@@ -1,0 +1,1 @@
+Sora letterforms are outlined from the Google Fonts Sora variable font (SIL Open Font License; see OFL-Sora.txt). Technology icons use Simple Icons v16 (CC0 1.0), https://github.com/simple-icons/simple-icons. Component geometry is original. No assets are copied from reference profiles.
