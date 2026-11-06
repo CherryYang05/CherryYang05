@@ -2,7 +2,11 @@
 
 计算机系统 · AI Infra · Agent Runtime
 
-[BearAgent](https://github.com/CherryYang05/BearAgent) · [myskills](https://github.com/CherryYang05/myskills) · [OpenMIPS_CPU](https://github.com/CherryYang05/OpenMIPS_CPU)
+[![BearAgent · Stars](https://img.shields.io/github/stars/CherryYang05/BearAgent?style=flat-square&label=BearAgent&logo=github&logoColor=white&labelColor=4C566A&color=5E81AC)](https://github.com/CherryYang05/BearAgent "查看 BearAgent；徽标数字为 Star 数")
+[![myskills · Stars](https://img.shields.io/github/stars/CherryYang05/myskills?style=flat-square&label=myskills&logo=github&logoColor=white&labelColor=4C566A&color=5E81AC)](https://github.com/CherryYang05/myskills "查看 myskills；徽标数字为 Star 数")
+[![OpenMIPS_CPU · Stars](https://img.shields.io/github/stars/CherryYang05/OpenMIPS_CPU?style=flat-square&label=OpenMIPS_CPU&logo=github&logoColor=white&labelColor=4C566A&color=5E81AC)](https://github.com/CherryYang05/OpenMIPS_CPU "查看 OpenMIPS_CPU；徽标数字为 Star 数")
+[![LinuxKernel · Stars](https://img.shields.io/github/stars/CherryYang05/LinuxKernel?style=flat-square&label=LinuxKernel&logo=github&logoColor=white&labelColor=4C566A&color=5E81AC)](https://github.com/CherryYang05/LinuxKernel "查看 LinuxKernel；徽标数字为 Star 数")
+[![daily-planner · Stars](https://img.shields.io/github/stars/CherryYang05/daily-planner?style=flat-square&label=daily-planner&logo=github&logoColor=white&labelColor=4C566A&color=5E81AC)](https://github.com/CherryYang05/daily-planner "查看 daily-planner；徽标数字为 Star 数")
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
